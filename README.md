@@ -16,14 +16,16 @@ insert your desired command prefix and your bot token
 
 !anime - get random anime with rating and genres
 
-!balance <2captchakey> - check 2captcha balance (does not log user's key to console)
+!balance your2CaptchaKeyHere - check 2captcha balance (does not log user's key to console)
 
-!variants <shopify item url> shopify variants with sizes
+!variants shopifyItemUrl - shopify variants with sizes
 
 
 ~running the bot
 
 node bot.js
+
+
 
 all done ^_^
 
