@@ -372,7 +372,7 @@ bot.on('guildMemberAdd', member => {
   // Do nothing if the channel wasn't found on this server
   if (!channel) return;
   // Send the message, mentioning the member
-  channel.send(`${member} JUST JOINED O SHIT WADDUP`);
+  channel.send(`${member} JUST JOINED WADDUP`);
 });
 
 
