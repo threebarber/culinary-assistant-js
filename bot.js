@@ -239,7 +239,7 @@ stockxSearch = function(message, query){
       else {
         console.log('could not connect')
         console.log(response.statusCode)
-        message.channel.send("something went wrong SOMEONE FIND KEEF OH CHRIST")
+        message.channel.send("something went wrong OH CHRIST")
       }
   })
 
@@ -304,7 +304,7 @@ goatSearch = function(message, query){
       else {
         console.log('could not connect')
         console.log(response.statusCode)
-        message.channel.send("something went wrong SOMEONE FIND KEEF OH CHRIST")
+        message.channel.send("something went wrong OH CHRIST")
       }
   })
 
